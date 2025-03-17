@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @flipflargin
-- 👀 I’m usually split between hardware and software projects.  Fun for me is restoring >40 year old computers.
-- 🌱 I’m currently learning to troubleshoot with my digital oscilloscope.
+- 👀 I’m usually split between various hardware and software projects (fun is finding and restoring >40 year old computers).
+- 🌱 I’m still learning to troubleshoot with my digital oscilloscope.
 - 📫 How to reach me: minnesotan@live.com
 - ⚡ Fun fact: The TRS-80 Model 4P weighs 26 pounds (woof!)
 
